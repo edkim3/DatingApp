@@ -1,5 +1,5 @@
 [{
-        "Username": "Jean",
+        "UserName": "Jean",
         "Gender": "female",
         "DateOfBirth": "1982-07-13",
         "KnownAs": "Jean",
@@ -16,7 +16,7 @@
         }]
     },
     {
-        "Username": "Hattie",
+        "UserName": "Hattie",
         "Gender": "female",
         "DateOfBirth": "1999-06-28",
         "KnownAs": "Hattie",
@@ -33,7 +33,7 @@
         }]
     },
     {
-        "Username": "Phyllis",
+        "UserName": "Phyllis",
         "Gender": "female",
         "DateOfBirth": "1981-04-04",
         "KnownAs": "Phyllis",
@@ -50,7 +50,7 @@
         }]
     },
     {
-        "Username": "Dana",
+        "UserName": "Dana",
         "Gender": "female",
         "DateOfBirth": "1967-01-01",
         "KnownAs": "Dana",
@@ -67,7 +67,7 @@
         }]
     },
     {
-        "Username": "Nannie",
+        "UserName": "Nannie",
         "Gender": "female",
         "DateOfBirth": "1973-06-22",
         "KnownAs": "Nannie",
@@ -84,7 +84,7 @@
         }]
     },
     {
-        "Username": "Moon",
+        "UserName": "Moon",
         "Gender": "male",
         "DateOfBirth": "1990-02-17",
         "KnownAs": "Moon",
@@ -101,7 +101,7 @@
         }]
     },
     {
-        "Username": "Hunter",
+        "UserName": "Hunter",
         "Gender": "male",
         "DateOfBirth": "1951-07-19",
         "KnownAs": "Hunter",
@@ -118,7 +118,7 @@
         }]
     },
     {
-        "Username": "Burch",
+        "UserName": "Burch",
         "Gender": "male",
         "DateOfBirth": "1960-11-09",
         "KnownAs": "Burch",
@@ -135,7 +135,7 @@
         }]
     },
     {
-        "Username": "Perez",
+        "UserName": "Perez",
         "Gender": "male",
         "DateOfBirth": "1956-06-09",
         "KnownAs": "Perez",
@@ -152,7 +152,7 @@
         }]
     },
     {
-        "Username": "Harrington",
+        "UserName": "Harrington",
         "Gender": "male",
         "DateOfBirth": "1985-05-03",
         "KnownAs": "Harrington",
